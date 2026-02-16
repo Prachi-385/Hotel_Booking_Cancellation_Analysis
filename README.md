@@ -5,20 +5,20 @@
 This project analyzes hotel booking data to understand customer reservation behavior and identify patterns related to booking cancellations.
 
 The main goal is to explore:
-Cancellation trends
-Differences between Resort Hotels and City Hotels
-Booking patterns using visualizations
-Key factors influencing cancellations
-The analysis is done using Python data analysis libraries and visualization tools.
+- Cancellation trends
+- Differences between Resort Hotels and City Hotels
+- Booking patterns using visualizations
+- Key factors influencing cancellations
+- The analysis is done using Python data analysis libraries and visualization tools.
 
 ## Ojectives
 
-Perform data cleaning and preprocessing
-Convert and handle date-time features
-Analyze cancellation percentage
-Compare cancellation rates by hotel type
-Create insightful visualizations (bar charts, pie charts, etc.)
-Generate business insights from data
+- Perform data cleaning and preprocessing
+- Convert and handle date-time features
+- Analyze cancellation percentage
+- Compare cancellation rates by hotel type
+- Create insightful visualizations (bar charts, pie charts, etc.)
+- Generate business insights from data
 
 ## Tech Stack
 
