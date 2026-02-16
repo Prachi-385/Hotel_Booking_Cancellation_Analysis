@@ -22,12 +22,12 @@ Generate business insights from data
 
 ## Tech Stack
 
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
 ## Dataset Features (Examples)
 
@@ -40,40 +40,40 @@ Other booking-related features
 ## Project Workflow
 ### 1️⃣ Data Cleaning
 
-Handling missing values
-Fixing data types
-Converting date columns using pd.to_datetime()
+- Handling missing values
+- Fixing data types
+- Converting date columns using pd.to_datetime()
 
 ### 2️⃣ Exploratory Data Analysis (EDA)
 
-Cancellation percentage analysis
-Hotel-wise reservation comparison
-Distribution analysis of bookings
+- Cancellation percentage analysis
+- Hotel-wise reservation comparison
+- Distribution analysis of bookings
 
 ### 3️⃣ Data Visualization
 
-Created visualizations such as:
-Count plots
-Pie charts
-Bar charts with labels
-Hotel-wise cancellation comparison
+- Created visualizations such as:
+- Count plots
+- Pie charts
+- Bar charts with labels
+- Hotel-wise cancellation comparison
 
 ## Sample Insights
 
-City Hotels show higher cancellation rates compared to Resort Hotels.
-Cancellation trends vary based on booking characteristics.
-Visualization helps clearly identify customer behavior patterns.
+- City Hotels show higher cancellation rates compared to Resort Hotels.
+- Cancellation trends vary based on booking characteristics.
+- Visualization helps clearly identify customer behavior patterns.
 
 ## Key Learnings
 
-GroupBy operations in pandas
-Handling datetime columns
-Plot customization with seaborn & matplotlib
-Adding labels to charts using bar_label()
-Data storytelling through visualization
+- GroupBy operations in pandas
+- Handling datetime columns
+- plot customization with seaborn & matplotlib
+- Adding labels to charts using bar_label()
+- Data storytelling through visualization
 
 ## Future Improvements
 
-Build interactive dashboard (Power BI / Tableau)
-Apply predictive modeling for cancellation prediction
-Feature engineering for deeper insights
+- Build interactive dashboard (Power BI / Tableau)
+- Apply predictive modeling for cancellation prediction
+- Feature engineering for deeper insights
