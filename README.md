@@ -1,7 +1,7 @@
 # Hotel Booking Cancellation Analysis
 
 Problem Statement:
-Analyzed hotel booking data to identify high cancellation rates, revenue loss, and occupancy inefficiencies, enabling better pricing and demand management strategies.
+Analyzed hotel booking data to identify high cancellation rates, revenue loss, and occupancy inefficiencies, enabling better pricing and demand management strategies. the goal was to understand why bookings get canceled and how it impacts revenue and occupancy. Since cancellations directly reduce revenue and lead to unsold rooms, I wanted to identify patterns and suggest ways to improve pricing and booking strategies
 
 - Analyzed 30,000+ booking records and found an overall cancellation rate of ~27–30%, with City Hotels contributing ~60% of total cancellations, significantly impacting occupancy
 - Evaluated ADR (Average Daily Rate) and booking trends, estimating potential revenue loss of 18–22% due to cancellations, and identified key patterns driving last-minute cancellations
